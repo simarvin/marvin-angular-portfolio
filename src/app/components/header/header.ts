@@ -8,5 +8,6 @@ import { Component, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
   schemas: [CUSTOM_ELEMENTS_SCHEMA]
 })
 export class Header {
-
+    ProfileImgpath = 'assets/images/marvinformalphoto.png';
+ 
 }
